@@ -1,0 +1,22 @@
+/*  A paleta de cores foi retirada do abode color: https://color.adobe.com/pt/search?q=money */
+
+:root {
+  --branco: #ffffff;
+  --salmao: #D9896C;
+  --laranja-pantone: #F2AB6D;
+  --laranja-pantone: #F2AB6D;
+  --verde-escur-fraco-adobe:  #025E73;
+  --verde-escuro-forte-adobe: #024059;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 16px Arial, sans-serif;
+  color: #ffffff;
+}
+
